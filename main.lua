@@ -1,4 +1,4 @@
---// Khôi Script - Speed GUI - By Khôi
+--// Khôi Script - Speed GUI - By Khôi - lấy script làm tuất 
 
 local player = game.Players.LocalPlayer
 local humanoid
